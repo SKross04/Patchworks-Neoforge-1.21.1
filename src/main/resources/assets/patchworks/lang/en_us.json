@@ -1,0 +1,23 @@
+{
+  "item.patchworks.black_gem": "Black Gem",
+  "item.patchworks.black_feather": "Black Feather",
+  "item.patchworks.recallite": "Recallite",
+  "item.patchworks.pigeon": "Pigeon",
+  "item.patchworks.cooked_pigeon": "Cooked Pigeon",
+  "item.patchworks.blueberry": "Blueberry",
+  "item.patchworks.macaron": "Macaron",
+  "item.patchworks.recallite_knife": "Recallite Throwing Knife",
+
+
+
+  "block.patchworks.black_gem_block": "Block Of Black Gem",
+  "block.patchworks.recallite_block": "Block Of Recallite",
+  "block.patchworks.recallite_ore": "Recallite Ore",
+  "block.patchworks.deepslate_recallite_ore": "Deepslate Recallite Ore",
+
+
+
+  "itemGroup.patchworks.raven_items_tab": "Raven",
+  "itemGroup.patchworks.recallite_items_tab": "Recallite",
+  "itemGroup.patchworks.food_pet_items_tab": "Food Pets"
+}
